@@ -1,0 +1,10 @@
+.hidden {
+  height: 0;
+  opacity: 0;
+  cursor: default;
+  pointer-events: none;
+}
+
+.full-width {
+  width: 100%;
+}
